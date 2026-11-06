@@ -1,0 +1,19 @@
+# ModelSim
+work/
+rtl_work/
+simulation/
+transcript
+vsim.wlf
+modelsim.ini
+*.mpf
+*.mti
+
+# Quartus
+db/
+incremental_db/
+output_files/
+*.qws
+*.bak
+*.rpt
+*.summary
+*.smsg
